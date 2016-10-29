@@ -1,5 +1,6 @@
 # register
 ——————理解框架之前的————————————————
+
 1，servlet：request bean
 
 2，对user.xml的Dom4JUtil的解析
